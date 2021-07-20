@@ -29,6 +29,9 @@
        <li class="nav-item ml-lg-3">
         <a class="nav-link" href="#">Community</a>
       </li>
+      <li class="nav-item ml-lg-3">
+        <a class="nav-link" href="https://io-extended-code-of-conduct.netlify.app/">COD</a>
+      </li>
        <li class="nav-item ml-md-3">
         <a class="nav-link bg-warning mr-3 rounded  register-btn text-dark px-3 font-weight-bold"   href="#">Register</a>
       </li>
