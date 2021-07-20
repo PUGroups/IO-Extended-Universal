@@ -33,7 +33,7 @@
         <a class="nav-link" href="https://io-extended-code-of-conduct.netlify.app/">COD</a>
       </li>
        <li class="nav-item ml-md-3">
-        <a class="nav-link bg-warning mr-3 rounded  register-btn text-dark px-3 font-weight-bold"   href="#">Register</a>
+        <a class="nav-link bg-warning mr-3 rounded  register-btn text-dark px-3 font-weight-bold"   href="https://forms.gle/PCJhTisg1p3S2Mdb6">Register</a>
       </li>
          <li class="nav-item ml-lg-3">
         <a class="nav-link" href="https://avatar-generator-io-extended.netlify.app/">Avatar</a>
