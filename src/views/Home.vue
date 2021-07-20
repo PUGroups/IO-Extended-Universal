@@ -47,12 +47,7 @@
           <div class="row">
             <div class="col-lg-10">
               <p>
-                Amet sit sadipscing ea labore ea duo stet, magna diam labore,
-                lorem aliquyam accusam vero no duo invidunt dolor. Sed sanctus
-                erat diam lorem est consetetur et gubergren, no sed elitr lorem
-                ipsum. Sadipscing lorem nonumy vero sit kasd tempor sanctus sit
-                ipsum, et sit no consetetur no erat stet, diam tempor ut sed
-                magna takimata
+                Come together with community because alone we can do so little but together with community we can grow and reach to great heights.United with Community one can make a remarkable changes in their personal growth and also towards society!
               </p>
             </div>
           </div>
