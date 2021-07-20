@@ -30,10 +30,10 @@
         <a class="nav-link" href="#">Community</a>
       </li>
        <li class="nav-item ml-md-3">
-        <a class="nav-link bg-warning mr-3 rounded  register-btn text-dark px-3 font-weight-bold" href="https://avatar-generator-io-extended.netlify.app/" >Register</a>
+        <a class="nav-link bg-warning mr-3 rounded  register-btn text-dark px-3 font-weight-bold" href="" >Register</a>
       </li>
          <li class="nav-item ml-lg-3">
-        <a class="nav-link" href="#">Avatar</a>
+        <a class="nav-link" href="https://avatar-generator-io-extended.netlify.app/">Avatar</a>
       </li>
       <!-- <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
