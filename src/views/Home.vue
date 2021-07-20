@@ -160,13 +160,13 @@
                   <img
                     width="100"
                     height="100"
-                    src="../assets/ceo.png"
+                    src="https://pbs.twimg.com/profile_images/1353746199824773122/9ZLmxxxL_400x400.jpg"
                     alt=""
                   />
                 </div>
                 <div class="col-lg-7 d-flex flex-column justify-content-center">
-                  <h4>Jane Cooper</h4>
-                  <p>CEO at ABC Company</p>
+                  <h4>Kartikey Rawat</h4>
+                  <p>Student Leader at Postman</p>
                 </div>
               </div>
 
