@@ -18,16 +18,16 @@
     <ul class="navbar-nav   text-dark">
       
       <li class="nav-item ml-lg-3">
-        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" href="#about">About</a>
       </li>
        <!-- <li class="nav-item ml-lg-3">
         <a class="nav-link" href="#">Agenda</a>
       </li> -->
        <li class="nav-item ml-lg-3">
-        <a class="nav-link ml-lg-3" href="#">Speaker</a>
+        <a class="nav-link ml-lg-3" href="#speaker">Speaker</a>
       </li>
        <li class="nav-item ml-lg-3">
-        <a class="nav-link" href="#">Community</a>
+        <a class="nav-link" href="#community">Community</a>
       </li>
       <li class="nav-item ml-lg-3">
         <a class="nav-link" href="https://io-extended-code-of-conduct.netlify.app/">COD</a>
