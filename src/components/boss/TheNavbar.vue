@@ -18,22 +18,22 @@
     <ul class="navbar-nav   text-dark">
       
       <li class="nav-item ml-lg-3">
-        <a class="nav-link" href="#about">About</a>
+        <a class="nav-link" href="#">About</a>
       </li>
        <!-- <li class="nav-item ml-lg-3">
-        <a class="nav-link" href="#agenda">Agenda</a>
+        <a class="nav-link" href="#">Agenda</a>
       </li> -->
        <li class="nav-item ml-lg-3">
-        <a class="nav-link ml-lg-3" href="#speaker">Speaker</a>
+        <a class="nav-link ml-lg-3" href="#">Speaker</a>
       </li>
        <li class="nav-item ml-lg-3">
-        <a class="nav-link" href="#community">Community</a>
+        <a class="nav-link" href="#">Community</a>
       </li>
        <li class="nav-item ml-md-3">
         <a class="nav-link bg-warning mr-3 rounded  register-btn text-dark px-3 font-weight-bold"   href="#">Register</a>
       </li>
          <li class="nav-item ml-lg-3">
-        <a class="nav-link" href="https://avatar-generator-io-extended.netlify.app/" target="_blank" >Avatar</a>
+        <a class="nav-link" href="#">Avatar</a>
       </li>
       <!-- <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

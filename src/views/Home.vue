@@ -29,12 +29,8 @@
           </button>
         </div>
       </div>
-      <div class="row  d-lg-block  design-banner-square" >
-
-      </div>
-        <div class="row  d-lg-block  design-banner-circle" >
-
-      </div>
+      <div class="row d-lg-block design-banner-square"></div>
+      <div class="row d-lg-block design-banner-circle"></div>
     </div>
 
     <!-- ______________WHY IO EXTENDED___________START -->
@@ -42,7 +38,7 @@
     <div class="container">
       <div class="row my-1 m-auto">
         <div class="col my-3 box">
-          <h1 id="about" >Why <span>IO Extended ?</span></h1>
+          <h1>Why <span>IO Extended ?</span></h1>
         </div>
       </div>
       <div class="row my-1 d-flex justify-content-around">
@@ -82,16 +78,15 @@
         <div class="col-md-8 m-2 p-3 you-matter-div">
           <h2 class="mt-2">Because YOU matter</h2>
           <p>
-               Amet sit sadipscing ea labore ea duo stet, magna diam labore,
-                lorem aliquyam accusam vero no duo invidunt dolor. Sed sanctus
-                erat diam lorem est consetetur et gubergren, no sed elitr lorem
-                ipsum. Sadipscing lorem nonumy vero sit kasd tempor sanctus sit
-                ipsum, et sit no consetetur no erat stet, diam tempor ut sed
-                magna takimata
+            Amet sit sadipscing ea labore ea duo stet, magna diam labore, lorem
+            aliquyam accusam vero no duo invidunt dolor. Sed sanctus erat diam
+            lorem est consetetur et gubergren, no sed elitr lorem ipsum.
+            Sadipscing lorem nonumy vero sit kasd tempor sanctus sit ipsum, et
+            sit no consetetur no erat stet, diam tempor ut sed magna takimata
           </p>
         </div>
         <div class="col-md-2 m-1 p-3 calender-div text-center">
-          <img src="../assets/Calendar%20Icon.png" alt="" />
+          <img src="../assets/calendar.png" alt="" />
           <h2 class="mt-3">16 July</h2>
           <h3>Friday</h3>
         </div>
@@ -102,7 +97,7 @@
 
     <!-- ______________CELEBRATION OF TECH___________START -->
 
-    <div class="container  mt-5">
+    <div class="container mt-5">
       <div class="row mt-5">
         <div class="col m-auto mb-4 box d-flex justify-content-center">
           <h1 class="heading">
@@ -117,8 +112,8 @@
       </div>
     </div>
     <!-- ______________CELEBRATION OF _________END -->
-<!-- ______________EVENT AGENDA_______start -->
-<!-- <div class="container mt-5">
+    <!-- ______________EVENT AGENDA_______start -->
+    <!-- <div class="container mt-5">
       <div class="row mt-5">
         <div class="col box m-auto d-flex justify-content-center">
           <h1 class="heading mb-4">
@@ -133,10 +128,9 @@
 
     <!-- ________EVENT AGENDA END________ -->
 
-
     <!-- ______________SPEAKERS LINEUP___________START -->
 
-    <div class="container mt-5" id="speaker" >
+    <div class="container mt-5">
       <div class="row mt-5">
         <div class="col m-auto box d-flex justify-content-center">
           <h1 class="mb-5">Speakers <span id="IO">Lineup </span></h1>
@@ -244,9 +238,51 @@
 
     <!-- ______________SPEAKERS LINEUP___________END -->
 
+    <!-- ______________community collaboration__________START -->
+    <div class="container mt-5">
+      <div class="row mt-5">
+        <div class="col box m-auto d-flex justify-content-center">
+          <h1 class="heading mb-4">
+            Community <span id="IO"> Collaboration </span>
+          </h1>
+        </div>
+      </div>
+      <div class="row mx-3 d-flex justify-content-around align-items-center">
+        <div class="col-4">
+          <a href="http://">
+            <img
+              src="../assets/community/code.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        <div class="col-4">
+          <a href="http://">
+            <img
+              src="../assets/community/dsc.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        <div class="col-4">
+          <a href="http://">
+            <img
+              src="../assets/community/pug.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+      </div>
+    </div>
+
+    <!-- ______________community collaboration__________END -->
+
     <!-- ______________PARTNERS COMMUNITIES__________START -->
 
-    <div class="container mt-5" id="community" >
+    <div class="container mt-5">
       <div class="row mt-5">
         <div class="col box m-auto d-flex justify-content-center">
           <h1 class="heading mb-4">
@@ -254,9 +290,72 @@
           </h1>
         </div>
       </div>
-      <div class="row">
-        <div class="col m-auto d-flex justify-content-center">
-          <img src="../assets/partners1.png" alt="" class="img-fluid" />
+      <div class="row mx-3 d-flex justify-content-between align-items-center">
+        <div class="col-4">
+          <a href="http://">
+            <img
+              src="../assets/community/cloud.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        <div class="col-4">
+          <a href="http://">
+            <img
+              src="../assets/community/c.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        <div class="col-4">
+          <a href="http://">
+            <img
+              src="../assets/community/tensorflow.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+      </div>
+
+      <div class="row mx-3 d-flex justify-content-around align-items-center">
+        <div class="col-3 mt-2">
+          <a href="http://">
+            <img
+              src="../assets/community/navimumbai.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        <div class="col-3 mt-2">
+          <a href="http://">
+            <img
+              src="../assets/community/c_.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+       <div class="col-3 mt-2">
+          <a href="http://">
+            <img
+              src="../assets/community/codeflow.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        <div class="col-3 mt-2">
+          <a href="http://">
+            <img
+              src="../assets/community/flag_logo.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
         </div>
       </div>
     </div>
@@ -266,11 +365,11 @@
 </template>
 
 <script>
-import Events  from './Events.vue'
+import Events from "./Events.vue";
 export default {
-  components:{
-    Events
-  }
+  components: {
+    Events,
+  },
 };
 </script>
 <style  scoped>
@@ -314,40 +413,38 @@ export default {
   background: black;
   border-radius: 50%;
 }
-.content-banner{
+.content-banner {
   position: relative;
   overflow: hidden;
 }
-.design-banner-square{
+.design-banner-square {
   width: 200px;
   height: 200px;
   /* background: black; */
   border: 2px solid black;
-  
 
   position: absolute;
   bottom: -20px;
   left: -20px;
-  
 }
-.design-banner-circle{
-    width: 300px;
+.design-banner-circle {
+  width: 300px;
   height: 300px;
   /* background: black; */
   border: 2px solid black;
-  
+
   border-radius: 50%;
   position: absolute;
   top: -40%;
   right: -10%;
 }
 
-
-@media screen and (max-width:750px) {
-  .design-banner-square,.design-banner-circle{
+@media screen and (max-width: 750px) {
+  .design-banner-square,
+  .design-banner-circle {
     display: none;
   }
-  .calender-div{
+  .calender-div {
     max-width: 300px;
   }
 }
@@ -423,7 +520,6 @@ h1 span {
 
 /* ______CELEBRATION OF TECH START________ */
 
-
 #IO {
   font-weight: 900;
 }
@@ -434,18 +530,16 @@ h1 span {
 /* ______CELEBRATION OF TECH END */
 
 /* _____EVENT START____ */
-.event_icons{
+.event_icons {
   margin-left: -80px;
 }
 /* _____EVENT END______ */
 
 /* _____mix */
 
-@media screen and (max-width:750px) {
-  .calender-div{
+@media screen and (max-width: 750px) {
+  .calender-div {
     max-width: 160px;
-    
-   
   }
 }
 </style>
