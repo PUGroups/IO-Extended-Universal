@@ -248,7 +248,7 @@
         </div>
       </div>
       <div class="row mx-3 d-flex justify-content-around align-items-center">
-        <div class="col-4">
+        <div class="col-4 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/pug.png"
@@ -257,7 +257,7 @@
               alt=""
           /></a>
         </div>
-        <div class="col-4">
+        <div class="col-4 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/dsc.png"
@@ -266,7 +266,7 @@
               alt=""
           /></a>
         </div>
-        <div class="col-4">
+        <div class="col-4 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/code.png"
@@ -282,7 +282,7 @@
 
     <!-- ______________PARTNERS COMMUNITIES__________START -->
 
-    <div class="container mt-5">
+    <div class="container  mt-5">
       <div class="row mt-5">
         <div class="col box m-auto d-flex justify-content-center">
           <h1 class="heading mb-4">
@@ -290,8 +290,8 @@
           </h1>
         </div>
       </div>
-      <div class="row mx-3 mb-5 d-flex justify-content-between align-items-center">
-        <div class="col-3">
+      <div class="row mb-5  d-flex justify-content-center align-items-center">
+        <div class="col-3 d-flex justify-content-center align-items-center ">
           <a href="http://">
             <img
               src="../assets/community/cloud.png"
@@ -301,7 +301,7 @@
           /></a>
         </div>
 
-      <div class="col-3">
+      <div class="col-3 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/cloud2.png"
@@ -312,7 +312,7 @@
         </div>
 
 
-        <div class="col-3">
+        <div class="col-3 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/cloud3.png"
@@ -323,7 +323,7 @@
         </div>
 
 
-        <div class="col-3">
+        <div class="col-3 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/cloud4.png"
@@ -333,7 +333,7 @@
           /></a>
         </div>
 
-        <div class="col-3">
+        <div class="col-3 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/c.png"
@@ -343,7 +343,7 @@
           /></a>
         </div>
 
-        <div class="col-3">
+        <div class="col-3 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/tensorflow.png"
@@ -355,7 +355,7 @@
    
 
      
-        <div class="col-3 mt-2">
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/navimumbai.png"
@@ -365,7 +365,7 @@
           /></a>
         </div>
 
-        <div class="col-3 mt-2">
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/c_.png"
@@ -375,7 +375,7 @@
           /></a>
         </div>
 
-       <div class="col-3 mt-2">
+       <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/codeflow.png"
@@ -386,7 +386,7 @@
         </div>
 
 
-        <div class="col-3 mt-2">
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/NITRkela.png"
@@ -397,7 +397,7 @@
         </div>
 
 
-        <div class="col-3 mt-2">
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/DSC_amity.jpg"
@@ -407,7 +407,7 @@
           /></a>
         </div>
 
-        <div class="col-3 mt-2">
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
           <a href="http://">
             <img
               src="../assets/community/flag_logo.png"
