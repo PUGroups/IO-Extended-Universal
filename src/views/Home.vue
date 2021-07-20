@@ -145,13 +145,13 @@
                   <img
                     width="100"
                     height="100"
-                    src="../assets/ceo.png"
+                    src="https://pbs.twimg.com/profile_images/1410296084543332353/QIbycKcF_400x400.jpg"
                     alt=""
                   />
                 </div>
                 <div class="col-lg-7 d-flex flex-column justify-content-center">
-                  <h4>Jane Cooper</h4>
-                  <p>CEO at ABC Company</p>
+                  <h4>Kunal Khushwaha</h4>
+                  <p>Founder at Community Classroom</p>
                 </div>
               </div>
 
