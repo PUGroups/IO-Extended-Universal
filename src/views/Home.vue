@@ -91,7 +91,7 @@
           </p>
         </div>
         <div class="col-md-2 m-1 p-3 calender-div text-center">
-          <img src="../assets/calendar.png" alt="" />
+          <img src="../assets/Calendar%20Icon.png" alt="" />
           <h2 class="mt-3">16 July</h2>
           <h3>Friday</h3>
         </div>
