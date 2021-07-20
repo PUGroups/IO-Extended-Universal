@@ -251,7 +251,7 @@
         <div class="col-4">
           <a href="http://">
             <img
-              src="../assets/community/code.png"
+              src="../assets/community/pug.png"
               width="150"
               class="img-fluid"
               alt=""
@@ -269,7 +269,7 @@
         <div class="col-4">
           <a href="http://">
             <img
-              src="../assets/community/pug.png"
+              src="../assets/community/code.png"
               width="150"
               class="img-fluid"
               alt=""
@@ -290,8 +290,8 @@
           </h1>
         </div>
       </div>
-      <div class="row mx-3 d-flex justify-content-between align-items-center">
-        <div class="col-4">
+      <div class="row mx-3 mb-5 d-flex justify-content-between align-items-center">
+        <div class="col-3">
           <a href="http://">
             <img
               src="../assets/community/cloud.png"
@@ -300,7 +300,40 @@
               alt=""
           /></a>
         </div>
-        <div class="col-4">
+
+      <div class="col-3">
+          <a href="http://">
+            <img
+              src="../assets/community/cloud2.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+
+
+        <div class="col-3">
+          <a href="http://">
+            <img
+              src="../assets/community/cloud3.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+
+
+        <div class="col-3">
+          <a href="http://">
+            <img
+              src="../assets/community/cloud4.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+
+        <div class="col-3">
           <a href="http://">
             <img
               src="../assets/community/c.png"
@@ -309,7 +342,8 @@
               alt=""
           /></a>
         </div>
-        <div class="col-4">
+
+        <div class="col-3">
           <a href="http://">
             <img
               src="../assets/community/tensorflow.png"
@@ -318,9 +352,9 @@
               alt=""
           /></a>
         </div>
-      </div>
+   
 
-      <div class="row mx-3 d-flex justify-content-around align-items-center">
+     
         <div class="col-3 mt-2">
           <a href="http://">
             <img
@@ -330,6 +364,7 @@
               alt=""
           /></a>
         </div>
+
         <div class="col-3 mt-2">
           <a href="http://">
             <img
@@ -339,6 +374,7 @@
               alt=""
           /></a>
         </div>
+
        <div class="col-3 mt-2">
           <a href="http://">
             <img
@@ -348,6 +384,29 @@
               alt=""
           /></a>
         </div>
+
+
+        <div class="col-3 mt-2">
+          <a href="http://">
+            <img
+              src="../assets/community/NITRkela.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+
+
+        <div class="col-3 mt-2">
+          <a href="http://">
+            <img
+              src="../assets/community/DSC_amity.jpg"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+
         <div class="col-3 mt-2">
           <a href="http://">
             <img
