@@ -35,7 +35,7 @@
 
     <!-- ______________WHY IO EXTENDED___________START -->
 
-    <div class="container">
+    <div class="container" id="about" >
       <div class="row my-1 m-auto">
         <div class="col my-3 box">
           <h1>Why <span>IO Extended ?</span></h1>
@@ -125,7 +125,7 @@
 
     <!-- ______________SPEAKERS LINEUP___________START -->
 
-    <div class="container mt-5">
+    <div class="container mt-5" id="speaker" >
       <div class="row mt-5">
         <div class="col m-auto box d-flex justify-content-center">
           <h1 class="mb-5">Speakers <span id="IO">Lineup </span></h1>
@@ -234,7 +234,7 @@
     <!-- ______________SPEAKERS LINEUP___________END -->
 
     <!-- ______________community collaboration__________START -->
-    <div class="container mt-5">
+    <div class="container mt-5" id="community" >
       <div class="row mt-5">
         <div class="col box m-auto d-flex justify-content-center">
           <h1 class="heading mb-4">
