@@ -1,6 +1,6 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-light bg-light ">
-  <a class="navbar-brand " href="#">
+  <a class="navbar-brand " href="https://io-extended-universal.netlify.app/">
     <div class="row ">
             <div id="logo" class="col-3 mx-4"></div>
             <div id="logo-slash"></div>
@@ -18,16 +18,20 @@
     <ul class="navbar-nav   text-dark">
       
       <li class="nav-item ml-lg-3">
-        <a class="nav-link" href="#about">About</a>
+        <a class="nav-link" href="https://io-extended-universal.netlify.app/#about">About</a>
       </li>
        <!-- <li class="nav-item ml-lg-3">
         <a class="nav-link" href="#">Agenda</a>
       </li> -->
        <li class="nav-item ml-lg-3">
-        <a class="nav-link ml-lg-3" href="#speaker">Speaker</a>
+        <a class="nav-link ml-lg-3" href="https://io-extended-universal.netlify.app/#speaker">Speaker</a>
       </li>
        <li class="nav-item ml-lg-3">
-        <a class="nav-link" href="#community">Community</a>
+        <a class="nav-link ml-lg-3" ><router-link to="/team">Team</router-link></a>
+       
+      </li>
+       <li class="nav-item ml-lg-3">
+        <a class="nav-link" href="https://io-extended-universal.netlify.app/#community">Community</a>
       </li>
       <li class="nav-item ml-lg-3">
         <a class="nav-link" href="https://io-extended-code-of-conduct.netlify.app/">COD</a>
@@ -131,5 +135,9 @@
 .navbar-toggler:hover{
  
   transform: scale(1.1)
+}
+li a{
+  text-decoration: none;
+  color: black;
 }
 </style>

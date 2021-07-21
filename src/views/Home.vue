@@ -24,9 +24,9 @@
           </div>
           <h2 id="tag2">Experience IO</h2>
           <h2 id="tag3">With your local communties</h2>
-          <a href="https://forms.gle/PCJhTisg1p3S2Mdb6"><button class="bg-light register-btn p-2 mt-3 outline-none border-0">
+          <button class="bg-light register-btn p-2 mt-3 outline-none border-0">
             Register Now
-          </button></a>
+          </button>
         </div>
       </div>
       <div class="row d-lg-block design-banner-square"></div>
@@ -161,13 +161,13 @@
                   <img
                     width="100"
                     height="100"
-                    src="https://pbs.twimg.com/profile_images/1407745931890421766/p3DL_rtq_400x400.jpg"
+                    src="../assets/ceo.png"
                     alt=""
                   />
                 </div>
                 <div class="col-lg-7 d-flex flex-column justify-content-center">
-                  <h4>Ankita Tripathi</h4>
-                  <p>Building Developer UGC Program at Google</p>
+                  <h4>Jane Cooper</h4>
+                  <p>CEO at ABC Company</p>
                 </div>
               </div>
             </div>
@@ -237,7 +237,7 @@
         <div class="col-4 d-flex justify-content-center align-items-center">
           <a href="http://discord.pugroups.in">
             <img
-              src="../assets/community/PUGroups_Logo.png"
+              src="../assets/community/pug.png"
               width="150"
               class="img-fluid"
               alt=""
@@ -278,7 +278,7 @@
       </div>
       <div class="row mb-5  d-flex justify-content-center align-items-center">
         <div class="col-3 d-flex justify-content-center align-items-center ">
-          <a href="https://gdg.community.dev/gdg-chandigarh/">
+          <a href="http://">
             <img
               src="../assets/community/cloud.png"
               width="150"
@@ -288,7 +288,7 @@
         </div>
 
       <div class="col-3 d-flex justify-content-center align-items-center">
-          <a href="https://gdg.community.dev/gdg-san-francisco/">
+          <a href="http://">
             <img
               src="../assets/community/cloud2.png"
               width="150"
@@ -318,50 +318,9 @@
               alt=""
           /></a>
         </div>
-        
-        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="https://dscnitrourkela.org/">
-            <img
-              src="../assets/community/NITRkela.png"
-              width="150"
-              class="img-fluid"
-              alt=""
-          /></a>
-        </div>
 
-
-        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="https://dsc.community.dev/amity-university-noida/">
-            <img
-              src="../assets/community/DSC_amity.jpg"
-              width="150"
-              class="img-fluid"
-              alt=""
-          /></a>
-        </div>
-        
         <div class="col-3 d-flex justify-content-center align-items-center">
-          <a href="https://flutterindia.dev/">
-            <img
-              src="https://pbs.twimg.com/profile_images/1375177275528769539/6jGao2yV_400x400.jpg"
-              width="150"
-              class="img-fluid"
-              alt=""
-          /></a>
-        </div>
-        
-        <div class="col-3 d-flex justify-content-center align-items-center">
-          <a href="https://flutterchd.web.app">
-            <img
-              src="https://pbs.twimg.com/profile_images/1322962893420130305/lAwGa4IY_400x400.jpg"
-              width="150"
-              class="img-fluid"
-              alt=""
-          /></a>
-        </div>
-        
-        <div class="col-3 d-flex justify-content-center align-items-center">
-          <a href="https://twitter.com/commclassroom">
+          <a href="http://">
             <img
               src="../assets/community/c.png"
               width="150"
@@ -371,7 +330,7 @@
         </div>
 
         <div class="col-3 d-flex justify-content-center align-items-center">
-          <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">
+          <a href="http://">
             <img
               src="../assets/community/tensorflow.png"
               width="150"
@@ -383,7 +342,7 @@
 
      
         <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="https://community.cncf.io/navi-mumbai/">
+          <a href="http://">
             <img
               src="../assets/community/navimumbai.png"
               width="150"
@@ -393,7 +352,7 @@
         </div>
 
         <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="https://community.codecademy.com/navi-mumbai/">
+          <a href="http://">
             <img
               src="../assets/community/c_.png"
               width="150"
@@ -403,7 +362,7 @@
         </div>
 
        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="https://linktr.ee/codefloworg">
+          <a href="http://">
             <img
               src="../assets/community/codeflow.png"
               width="150"
@@ -412,8 +371,30 @@
           /></a>
         </div>
 
+
         <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="https://twitter.com/basecampXD">
+          <a href="http://">
+            <img
+              src="../assets/community/NITRkela.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+
+
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
+          <a href="http://">
+            <img
+              src="../assets/community/DSC_amity.jpg"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
+          <a href="http://">
             <img
               src="../assets/community/flag_logo.png"
               width="150"
