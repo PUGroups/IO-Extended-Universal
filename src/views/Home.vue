@@ -235,7 +235,7 @@
       </div>
       <div class="row mx-3 d-flex justify-content-around align-items-center">
         <div class="col-4 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="http://discord.pugroups.in">
             <img
               src="../assets/community/pug.png"
               width="150"
@@ -244,7 +244,7 @@
           /></a>
         </div>
         <div class="col-4 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://developerstudentcommunity.co">
             <img
               src="../assets/community/dsc.png"
               width="150"
@@ -253,7 +253,7 @@
           /></a>
         </div>
         <div class="col-4 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://linktr.ee/Equicode">
             <img
               src="../assets/community/code.png"
               width="150"
