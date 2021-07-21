@@ -13,12 +13,12 @@ const teamData = [
   {
     id: 1,
     img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIE_WG-ywUwymdSlOZfw4q0mgj5EjaIwBqQ&usqp=CAU",
-    name: "Menu Benu",
-    position: "Founder",
-    twitter: "https://www.google.com/",
+      "https://i.ibb.co/8sFMnwY/2ab258c3-d22c-4b73-929b-36039ce09c14.jpg",
+    name: "Aashu",
+    position: "",
+    twitter: "https://twitter.com/YourVueJS",
     linkdin: "https://www.google.com/",
-    github: "https://www.google.com/",
+    github: "https://github.com/ashumsd7",
   },
 ];
 
