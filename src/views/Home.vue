@@ -237,7 +237,7 @@
         <div class="col-4 d-flex justify-content-center align-items-center">
           <a href="http://discord.pugroups.in">
             <img
-              src="../assets/community/pug.png"
+              src="../assets/community/PUGroups_Logo.png"
               width="150"
               class="img-fluid"
               alt=""
