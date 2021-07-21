@@ -74,7 +74,7 @@
         <div class="col-md-2 m-1 p-3 calender-div text-center">
           <img src="../assets/Calendar%20Icon.png" alt="" />
           <h2 class="mt-3">31st July 2021</h2>
-          <h3>Friday</h3>
+          <h3>Saturday</h3>
         </div>
       </div>
     </div>
