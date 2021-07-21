@@ -1,20 +1,21 @@
 <template>
   <div class="col-md-3 col-sm-6 col-6 mt-5">
     <div class="container-img m-auto">
-      <img class="" :src="img" alt="" />
+      <img class="hero-img" :src="img" alt="" />
       <div class="caption">
         <div
           class="
             d-flex
             py-2
-            flex-column
+            flex-row
+          
             justify-content-center
             align-items-center
           "
         >
-          <span v-if="twitter" >  <a :href="twitter">TWITTER</a> </span>
-             <span  v-if="github">  <a :href="github">GITHUB</a> </span>
-             <span v-if="linkdin">  <a :href="linkdin">LINKEDIN</a> </span>
+          <span  v-if="twitter">  <a :href="twitter"><img class="img-fluid media-imgs "  src="https://image.flaticon.com/icons/png/512/145/145812.png" alt=""></a> </span>
+             <span class="ml-3"  v-if="github">  <a :href="github"><img class="img-fluid media-imgs"  src="https://image.flaticon.com/icons/png/512/733/733553.png" alt=""></a> </span>
+             <span class="ml-3" v-if="linkdin">  <a :href="linkdin"><img class="img-fluid media-imgs"  src="https://image.flaticon.com/icons/png/512/179/179330.png" alt=""></a> </span>
         </div>
       </div>
     </div>
@@ -35,8 +36,8 @@ export default {
 <style  scoped>
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap");
 .container-img {
-  width: 160px;
-  height: 160px;
+  width: 180px;
+  height: 180px;
   position: relative;
   overflow: hidden;
   transition: all 0.5s;
@@ -46,10 +47,14 @@ export default {
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
 }
-img {
+.hero-img{
   width: 100%;
   height: 100%;
   transition: all 0.5s;
+}
+.media-imgs{
+    width: 30px;
+    height: 30px;
 }
 .caption {
   position: absolute;
@@ -65,20 +70,24 @@ img {
   color: white;
   transform: translateY(100%);
   transition: all 0.5s;
-  background: black;
+  background: rgb(0, 0, 0);
   font-weight: bolder;
   cursor: pointer;
 }
 
 .container-img:hover .caption {
-  transform: translateY(-15%);
-  -webkit-transform: translateY(-15%);
-  -moz-transform: translateY(-15%);
-  -ms-transform: translateY(-15%);
-  -o-transform: translateY(-15%);
+  transform: translateY(-3%);
+  
 }
 .container-img:hover img {
   transform: translateY(-10%);
+  /* opacity: .5; */
+  
+}
+.container-img:hover{
+    box-shadow: 3px -5px 27px 3px rgba(0, 0, 0, 0.75);
+-webkit-box-shadow: 3px -5px 27px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px -5px 27px 3px rgba(0,0,0,0.75);
 }
 .member-about {
   font-family: "Roboto Slab", serif;
@@ -90,10 +99,30 @@ img {
 .member-about h4 {
   opacity: 0.7;
 }
+span{
+    margin-left: 10px;
+}
+span:hover{
+     box-shadow: 3px -5px 27px 3px rgba(240, 237, 104, 0.75);
+-webkit-box-shadow: 3px -5px 27px 3px rgba(240, 237, 104, 0.75);
+-moz-box-shadow: 3px -5px 27px 3px rgba(240, 237, 104, 0.75);
+border-radius: 50%;
+animation: animateLogo .3s forwards ease-in;
+   
+}
 span a{
     text-decoration: none;
     color: wheat;
     font-weight: normal;
     text-transform: capitalize;
+}
+
+@keyframes animateLogo {
+    0%{
+        transform: scale(.8)
+    }
+     100%{
+        transform:  scale(1.2)
+    }
 }
 </style>
