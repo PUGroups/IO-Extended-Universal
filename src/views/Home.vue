@@ -339,7 +339,27 @@
               alt=""
           /></a>
         </div>
-
+        
+        <div class="col-3 d-flex justify-content-center align-items-center">
+          <a href="https://flutterindia.dev/">
+            <img
+              src="https://pbs.twimg.com/profile_images/1375177275528769539/6jGao2yV_400x400.jpg"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        
+        <div class="col-3 d-flex justify-content-center align-items-center">
+          <a href="https://flutterchd.web.app">
+            <img
+              src="https://pbs.twimg.com/profile_images/1322962893420130305/lAwGa4IY_400x400.jpg"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        
         <div class="col-3 d-flex justify-content-center align-items-center">
           <a href="https://twitter.com/commclassroom">
             <img
