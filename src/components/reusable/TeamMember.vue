@@ -14,7 +14,7 @@
         >
           <span v-if="twitter" >  <a :href="twitter">TWITTER</a> </span>
              <span  v-if="github">  <a :href="github">GITHUB</a> </span>
-             <span v-if="linkdin">  <a :href="linkdin">LINKDIN</a> </span>
+             <span v-if="linkdin">  <a :href="linkdin">LINKEDIN</a> </span>
         </div>
       </div>
     </div>
