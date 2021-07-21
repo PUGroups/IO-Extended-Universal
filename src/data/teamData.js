@@ -11,13 +11,13 @@ const teamData = [
   },
 
   {
-    id: 1,
+    id: 2,
     img:
       "https://i.ibb.co/8sFMnwY/2ab258c3-d22c-4b73-929b-36039ce09c14.jpg",
     name: "Aashu",
     position: "",
     twitter: "https://twitter.com/YourVueJS",
-    linkdin: "https://www.google.com/",
+    linkdin: "",
     github: "https://github.com/ashumsd7",
   },
 ];
