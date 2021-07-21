@@ -161,13 +161,13 @@
                   <img
                     width="100"
                     height="100"
-                    src="../assets/ceo.png"
+                    src="https://pbs.twimg.com/profile_images/1407745931890421766/p3DL_rtq_400x400.jpg"
                     alt=""
                   />
                 </div>
                 <div class="col-lg-7 d-flex flex-column justify-content-center">
-                  <h4>Jane Cooper</h4>
-                  <p>CEO at ABC Company</p>
+                  <h4>Ankita Tripathi</h4>
+                  <p>Building Developer UGC Program at Google</p>
                 </div>
               </div>
             </div>
