@@ -1,5 +1,5 @@
 # io-extended
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7166da36-3338-465a-b28b-e1ae1fce12c8/deploy-status)](https://app.netlify.com/sites/io-extended-universal/deploys)
 ## Project setup
 ```
 npm install
