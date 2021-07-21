@@ -22,7 +22,7 @@
 
     <div class="member-about mt-2">
       <h3 class="name text-center">{{ name }}</h3>
-      <h4 class="position text-center">{{ position }}</h4>
+      <h6 class="position text-center">{{ position }}</h6>
     </div>
   </div>
 </template>
