@@ -53,16 +53,11 @@
           </div>
         </div>
         <div class="col-md-5 m-2 p-2 growth-div">
-          <h2 class="mb-3 mt-2">Because Community matters</h2>
+          <h2 class="mb-3 mt-2">Because Growth matters</h2>
           <div class="row">
             <div class="col-lg-10">
               <p>
-                Amet sit sadipscing ea labore ea duo stet, magna diam labore,
-                lorem aliquyam accusam vero no duo invidunt dolor. Sed sanctus
-                erat diam lorem est consetetur et gubergren, no sed elitr lorem
-                ipsum. Sadipscing lorem nonumy vero sit kasd tempor sanctus sit
-                ipsum, et sit no consetetur no erat stet, diam tempor ut sed
-                magna takimata
+                Growth is a process not an event. Being more and more productive each day is growth.Grow remarkably and upscale your level of potential output with experience holders as every experience makes you grow.
               </p>
             </div>
           </div>
@@ -73,15 +68,11 @@
         <div class="col-md-8 m-2 p-3 you-matter-div">
           <h2 class="mt-2">Because YOU matter</h2>
           <p>
-            Amet sit sadipscing ea labore ea duo stet, magna diam labore, lorem
-            aliquyam accusam vero no duo invidunt dolor. Sed sanctus erat diam
-            lorem est consetetur et gubergren, no sed elitr lorem ipsum.
-            Sadipscing lorem nonumy vero sit kasd tempor sanctus sit ipsum, et
-            sit no consetetur no erat stet, diam tempor ut sed magna takimata
+            You matter, You are important, You can evolve, You contribute in development. Get inspired by the speakers at I/O extended and start working on yourselves. You can affect the world fundamentally, technically and revolutionarily.
           </p>
         </div>
         <div class="col-md-2 m-1 p-3 calender-div text-center">
-          <img src="../assets/calendar.png" alt="" />
+          <img src="../assets/Calendar%20Icon.png" alt="" />
           <h2 class="mt-3">16 July</h2>
           <h3>Friday</h3>
         </div>
