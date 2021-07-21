@@ -278,7 +278,7 @@
       </div>
       <div class="row mb-5  d-flex justify-content-center align-items-center">
         <div class="col-3 d-flex justify-content-center align-items-center ">
-          <a href="http://">
+          <a href="https://gdg.community.dev/gdg-chandigarh/">
             <img
               src="../assets/community/cloud.png"
               width="150"
@@ -288,7 +288,7 @@
         </div>
 
       <div class="col-3 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://gdg.community.dev/gdg-san-francisco/">
             <img
               src="../assets/community/cloud2.png"
               width="150"
@@ -320,7 +320,7 @@
         </div>
 
         <div class="col-3 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://twitter.com/commclassroom">
             <img
               src="../assets/community/c.png"
               width="150"
@@ -330,7 +330,7 @@
         </div>
 
         <div class="col-3 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">
             <img
               src="../assets/community/tensorflow.png"
               width="150"
@@ -342,7 +342,7 @@
 
      
         <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://community.cncf.io/navi-mumbai/">
             <img
               src="../assets/community/navimumbai.png"
               width="150"
@@ -352,7 +352,7 @@
         </div>
 
         <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://community.codecademy.com/navi-mumbai/">
             <img
               src="../assets/community/c_.png"
               width="150"
@@ -362,7 +362,7 @@
         </div>
 
        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://linktr.ee/codefloworg">
             <img
               src="../assets/community/codeflow.png"
               width="150"
@@ -373,7 +373,7 @@
 
 
         <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://dscnitrourkela.org/">
             <img
               src="../assets/community/NITRkela.png"
               width="150"
@@ -384,7 +384,7 @@
 
 
         <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://dsc.community.dev/amity-university-noida/">
             <img
               src="../assets/community/DSC_amity.jpg"
               width="150"
@@ -394,7 +394,7 @@
         </div>
 
         <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="http://">
+          <a href="https://twitter.com/basecampXD">
             <img
               src="../assets/community/flag_logo.png"
               width="150"
