@@ -35,9 +35,9 @@ const teamData = [
   {
     id: 4,
     img:
-      "https://i.ibb.co/8sFMnwY/2ab258c3-d22c-4b73-929b-36039ce09c14.jpg",
+      "https://i.ibb.co/Xz8hJwN/ssss.jpg",
     name: "Aashu",
-    position: "Web Developer ( Tech Team )",
+    position: "Web Developer (Tech Team)",
     twitter: "https://twitter.com/YourVueJS",
     linkdin: "",
     github: "https://github.com/ashumsd7",
