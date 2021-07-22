@@ -318,6 +318,37 @@
               alt=""
           /></a>
         </div>
+        
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
+          <a href="https://dscnitrourkela.org/">
+            <img
+              src="../assets/community/NITRkela.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+
+
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
+          <a href="https://dsc.community.dev/amity-university-noida/">
+            <img
+              src="../assets/community/DSC_amity.jpg"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        
+        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
+          <a href="https://flutterchd.web.app/">
+            <img
+              src="https://pbs.twimg.com/profile_images/1322962893420130305/lAwGa4IY_400x400.jpg"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
 
         <div class="col-3 d-flex justify-content-center align-items-center">
           <a href="https://twitter.com/commclassroom">
@@ -365,28 +396,6 @@
           <a href="https://linktr.ee/codefloworg">
             <img
               src="../assets/community/codeflow.png"
-              width="150"
-              class="img-fluid"
-              alt=""
-          /></a>
-        </div>
-
-
-        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="https://dscnitrourkela.org/">
-            <img
-              src="../assets/community/NITRkela.png"
-              width="150"
-              class="img-fluid"
-              alt=""
-          /></a>
-        </div>
-
-
-        <div class="col-3 mt-2 d-flex justify-content-center align-items-center">
-          <a href="https://dsc.community.dev/amity-university-noida/">
-            <img
-              src="../assets/community/DSC_amity.jpg"
               width="150"
               class="img-fluid"
               alt=""
