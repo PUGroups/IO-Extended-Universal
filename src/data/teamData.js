@@ -20,7 +20,7 @@ const teamData = [
     linkdin: "https://www.linkedin.com/in/carrycooldude/",
     github: "https://github.com/carrycooldude",
   },
-  
+
   {
     id: 3,
     img:
@@ -31,11 +31,10 @@ const teamData = [
     linkdin: "https://www.linkedin.com/in/khushi-sharma-2201/",
     github: "",
   },
-  
+
   {
     id: 4,
-    img:
-      "https://i.ibb.co/Xz8hJwN/ssss.jpg",
+    img: "https://i.ibb.co/71p4tNp/fff.jpg",
     name: "Aashutosh Anand Tiwari",
     position: "Web Developer (Tech Team)",
     twitter: "https://twitter.com/YourVueJS",
