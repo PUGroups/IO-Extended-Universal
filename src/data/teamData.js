@@ -31,9 +31,19 @@ const teamData = [
     linkdin: "https://www.linkedin.com/in/khushi-sharma-2201/",
     github: "",
   },
-
+  
   {
     id: 4,
+    img: "https://pbs.twimg.com/profile_images/1410810630945210370/zi7XE1Mk_400x400.jpg",
+    name: "Aanchal Mishra",
+    position: "Co-Organizer",
+    twitter: "https://twitter.com/Aanchalmishra__",
+    linkdin: "https://www.linkedin.com/in/mishra-aanchal/",
+    github: "https://github.com/mishra-aanchal",
+  },
+
+  {
+    id: 6,
     img: "https://i.ibb.co/71p4tNp/fff.jpg",
     name: "Aashutosh Anand Tiwari",
     position: "Web Developer (Tech Team)",
