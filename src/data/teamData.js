@@ -44,7 +44,7 @@ const teamData = [
   
     {
     id: 5,
-    img: "https://pbs.twimg.com/profile_images/1410810630945210370/zi7XE1Mk_400x400.jpg",
+    img: "https://pbs.twimg.com/profile_images/1329100705093668864/jBiPhG7s_400x400.jpg",
     name: "Hemang Sinha",
     position: "Co-Organizer",
     twitter: "https://twitter.com/HemangSinha",
