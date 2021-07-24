@@ -58,7 +58,7 @@ const teamData = [
     position: "Content writer & collaboration team",
     twitter: "https://twitter.com/AditiDw25821909",
     linkdin: "https://www.linkedin.com/in/aditi-dwivedi-500385201",
-    github: "https://github.com/",
+    github: "https://github.com/Aditid132",
   },
   
   {
