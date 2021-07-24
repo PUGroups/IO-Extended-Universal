@@ -24,9 +24,11 @@
           </div>
           <h2 id="tag2">Experience IO</h2>
           <h2 id="tag3">With your local communties</h2>
+          <a href="https://forms.gle/PCJhTisg1p3S2Mdb6" target="_blank" >
           <button class="bg-light register-btn p-2 mt-3 outline-none border-0">
             Register Now
           </button>
+          </a>
         </div>
       </div>
       <div class="row d-lg-block design-banner-square"></div>
