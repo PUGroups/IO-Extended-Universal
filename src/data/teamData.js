@@ -50,6 +50,16 @@ const teamData = [
     linkdin: "",
     github: "https://github.com/ashumsd7",
   },
+  
+  {
+    id: 6,
+    img: "https://media-exp1.licdn.com/dms/image/C4D03AQGxoU0-agBFGQ/profile-displayphoto-shrink_800_800/0/1620449085051?e=1632355200&v=beta&t=3fB7QItubSNXM_CSSMXJc4u9eMl-5grcSXoJz611jZM",
+    name: "Aditi Diwedi",
+    position: "Content writer & collaboration team",
+    twitter: "https://twitter.com/AditiDw25821909",
+    linkdin: "https://www.linkedin.com/in/aditi-dwivedi-500385201",
+    github: "https://github.com/",
+  },
 ];
 
 export default teamData;
