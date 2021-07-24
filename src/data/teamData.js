@@ -60,6 +60,16 @@ const teamData = [
     linkdin: "https://www.linkedin.com/in/aditi-dwivedi-500385201",
     github: "https://github.com/",
   },
+  
+  {
+    id: 7,
+    img: "https://pbs.twimg.com/profile_images/1152565550/PraveenAvatar_400x400.jpg",
+    name: "Praveen Kumar Purushothaman",
+    position: "Tech team",
+    twitter: "https://twitter.com/praveenscience",
+    linkdin: "https://uk.linkedin.com/in/praveentech",
+    github: "https://github.com/praveenscience",
+  },
 ];
 
 export default teamData;
