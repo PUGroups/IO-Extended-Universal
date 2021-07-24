@@ -20,20 +20,9 @@ const teamData = [
     linkdin: "https://www.linkedin.com/in/carrycooldude/",
     github: "https://github.com/carrycooldude",
   },
-
-  {
-    id: 3,
-    img:
-      "https://pbs.twimg.com/profile_images/1367940033936728065/bOEHv1CD_400x400.jpg",
-    name: "Khushi Sharma",
-    position: "Organizer",
-    twitter: "https://twitter.com/khushiSharma_22",
-    linkdin: "https://www.linkedin.com/in/khushi-sharma-2201/",
-    github: "",
-  },
   
   {
-    id: 4,
+    id: 3,
     img: "https://pbs.twimg.com/profile_images/1410810630945210370/zi7XE1Mk_400x400.jpg",
     name: "Aanchal Mishra",
     position: "Co-Organizer",
@@ -43,7 +32,7 @@ const teamData = [
   },
   
     {
-    id: 5,
+    id: 4,
     img: "https://pbs.twimg.com/profile_images/1329100705093668864/jBiPhG7s_400x400.jpg",
     name: "Hemang Sinha",
     position: "Co-Organizer",
@@ -53,7 +42,7 @@ const teamData = [
   },
 
   {
-    id: 6,
+    id: 5,
     img: "https://i.ibb.co/71p4tNp/fff.jpg",
     name: "Aashutosh Anand Tiwari",
     position: "Web Developer (Tech Team)",
