@@ -254,15 +254,6 @@
               alt=""
           /></a>
         </div>
-        <div class="col-4 d-flex justify-content-center align-items-center">
-          <a href="https://linktr.ee/Equicode">
-            <img
-              src="../assets/community/code.png"
-              width="150"
-              class="img-fluid"
-              alt=""
-          /></a>
-        </div>
       </div>
     </div>
 
@@ -366,6 +357,17 @@
           <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">
             <img
               src="../assets/community/tensorflow.png"
+              width="150"
+              class="img-fluid"
+              alt=""
+          /></a>
+        </div>
+        
+        
+        <div class="col-4 d-flex justify-content-center align-items-center">
+          <a href="https://linktr.ee/Equicode">
+            <img
+              src="../assets/community/code.png"
               width="150"
               class="img-fluid"
               alt=""
