@@ -123,10 +123,10 @@
         <div class="col m-auto box d-flex justify-content-center">
           <h1 class="mb-5">Speakers <span id="IO">Lineup </span></h1><br>
         </div>
-        <h3> Anouncing soon.... </h3>
       </div>
+      <h3> Anouncing soon.... </h3>
     </div>
-
+    
     <!-- ______________SPEAKERS LINEUP___________END -->
 
     <!-- ______________community collaboration__________START -->
