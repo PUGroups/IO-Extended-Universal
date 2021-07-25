@@ -125,7 +125,7 @@
         </div>
       </div>
     </div>
-    <div>
+    <div style="justify-content: center;" >
       <h3> Anouncing soon.... </h3>
     </div>
     
