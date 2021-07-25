@@ -126,7 +126,7 @@
       </div>
     </div>
     <div style="justify-content: center;" >
-      <h3> Anouncing soon.... </h3>
+      <h3 class="text-center mark" > Anouncing soon.... </h3>
     </div>
     
     <!-- ______________SPEAKERS LINEUP___________END -->
@@ -147,8 +147,8 @@
               src="../assets/community/pug.png"
               width="150"
               class="img-fluid"
-              alt=""
-          </div></a>
+              alt=""/>
+          </a>
         </div>
         <div class="col-4 d-flex justify-content-center align-items-center">
           <a href="https://developerstudentcommunity.co">
