@@ -124,6 +124,8 @@
           <h1 class="mb-5">Speakers <span id="IO">Lineup </span></h1><br>
         </div>
       </div>
+    </div>
+    <div>
       <h3> Anouncing soon.... </h3>
     </div>
     
