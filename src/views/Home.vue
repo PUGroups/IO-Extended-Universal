@@ -121,7 +121,7 @@
     <div class="container mt-5" id="speaker" >
       <div class="row mt-5">
         <div class="col m-auto box d-flex justify-content-center">
-          <h1 class="mb-5">Speakers <span id="IO">Lineup </span></h1>
+          <h1 class="mb-5">Speakers <span id="IO">Lineup </span></h1><br>
           <h3> Anouncing soon.... </h3>
         </div>
       </div>
