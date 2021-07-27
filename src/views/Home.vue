@@ -178,7 +178,7 @@
         <div class="col-3 d-flex justify-content-center align-items-center ">
           <a href="https://gdg.community.dev/gdg-chandigarh">
             <img
-              src="https://i.ibb.co/7bdCWQS/gdgchandigarh.jpg"
+              src="https://i.ibb.co/52tq2BC/gdgchan.png"
               width="150"
               class="img-fluid"
               alt=""
