@@ -70,6 +70,16 @@ const teamData = [
     linkdin: "https://uk.linkedin.com/in/praveentech",
     github: "https://github.com/praveenscience",
   },
+  
+  {
+    id: 8,
+    img: "https://pbs.twimg.com/profile_images/1399258698602614789/lgzhVm78_400x400.jpg",
+    name: "Rishabh Singh",
+    position: "UI / UX Lead",
+    twitter: "https://twitter.com/mindninjax",
+    linkdin: "https://www.linkedin.com/in/mindninjax/",
+    github: "https://github.com/mindninjaX",
+  },
 ];
 
 export default teamData;
