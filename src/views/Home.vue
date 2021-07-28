@@ -50,7 +50,7 @@
       </div>
     </div>
     <div v-if="!XX" style="justify-content: center">
-      <h3 class="text-center mark">Anouncing soon....</h3>
+      <h3 class="text-center mark">Announcing soon....</h3>
     </div>
 
     <Speakers v-else />
