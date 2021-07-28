@@ -84,8 +84,12 @@ const partnersCommunity = [
     name: "",
     website: "https://twitter.com/basecampXD",
   },
-  
-
+  {
+    id: 14,
+    img: "https://i.ibb.co/zNFQp8h/flag-logo.jpg",
+    name: "",
+    website: "https://twitter.com/basecampXD",
+  },
 ];
 
 export default partnersCommunity;
