@@ -41,6 +41,8 @@
 
     <CelebrationOfTech />
 
+  
+
     <div class="container mt-5" id="speaker">
       <div class="row mt-5">
         <div class="col m-auto box d-flex justify-content-center">
@@ -49,11 +51,11 @@
         </div>
       </div>
     </div>
-    <div v-if="!XX" style="justify-content: center">
+    <!-- <div v-if="!XX" style="justify-content: center">
       <h3 class="text-center mark">Announcing soon....</h3>
-    </div>
+    </div> -->
 
-    <Speakers v-else />
+    <Speakers />
 
     <CommunityCollab />
 

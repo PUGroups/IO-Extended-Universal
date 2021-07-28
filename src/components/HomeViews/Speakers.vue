@@ -1,16 +1,23 @@
 <template>
 
   <div class="container">
-    <div class="row d-flex justify-content-center align-items-center">
+    <div  v-if="!getSpeakersData" class="">
+   <div  class="spinner-border text-warning" role="status">
+  <span class="visually-hidden">Loading...</span>
+</div>
+<h3 class="text-center">Loading Speakers...</h3>
+</div>
+
+    <div v-else class="row d-flex justify-content-center align-items-center">
       <team-member
-        v-for="data in speakers"
+        v-for="data in getSpeakersData"
         :key="data.id"
         :twitter="data.twitter"
         :linkdin="data.linkdin"
         :github="data.github"
-        :img="data.img"
-        :name="data.name"
-        :position="data.position"
+        :img="data.profilePicture"
+        :name="data.fullName"
+        :position="data.tagLine"
       />
     </div>
   </div>
@@ -18,15 +25,24 @@
 
 <script>
 import TeamMember from "../reusable/TeamMember.vue";
-import speakerData from "../../data/speakerData";
+// import speakerData from "../../data/speakerData";
 export default {
   components: {
     TeamMember,
   },
   data() {
     return {
-      speakers: speakerData,
+      // speakers: this.getSpeakersData,
     };
+  },
+
+  computed:{
+    getSpeakersData(){
+      return this.$store.getters.getSpeakersWall
+    }
+  },
+  created() {
+    this.$store.dispatch('getSpeakersListAction')
   },
 };
 </script>

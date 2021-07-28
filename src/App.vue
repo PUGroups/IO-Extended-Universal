@@ -51,4 +51,8 @@ export default {
     opacity: 0;
   }
 }
+
+#IO{
+  font-weight: bolder;
+}
 </style>
