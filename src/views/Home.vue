@@ -124,7 +124,7 @@
           <h1 class="mb-5">Speakers <span id="IO">Lineup </span></h1><br>
         </div>
       </div>
-      <script type="text/javascript" src="https://sessionize.com/api/v2/7h33x0zi/view/Grid"></script>
+    
     </div>
     
     <!-- ______________SPEAKERS LINEUP___________END -->
