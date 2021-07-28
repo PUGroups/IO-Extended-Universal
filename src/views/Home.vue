@@ -124,9 +124,7 @@
           <h1 class="mb-5">Speakers <span id="IO">Lineup </span></h1><br>
         </div>
       </div>
-    </div>
-    <div style="justify-content: center;" >
-      <h3 class="text-center mark" > Anouncing soon.... </h3>
+      <script type="text/javascript" src="https://sessionize.com/api/v2/7h33x0zi/view/Grid"></script>
     </div>
     
     <!-- ______________SPEAKERS LINEUP___________END -->
