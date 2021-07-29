@@ -1,7 +1,7 @@
 const partnersCommunity = [
   {
     id: 1,
-    img: "",
+    img: "https://user-images.githubusercontent.com/71369943/127438493-05ab1cb0-a1bb-4e00-bb63-a4ad98cf3760.png",
     name: "",
     website: "https://gdg.community.dev/gdg-chandigarh",
   },
