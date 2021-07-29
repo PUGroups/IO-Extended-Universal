@@ -80,6 +80,15 @@ const teamData = [
     linkdin: "https://www.linkedin.com/in/mindninjax/",
     github: "https://github.com/mindninjaX",
   },
+  {
+    id: 9,
+    img: "https://pbs.twimg.com/profile_images/1354887026374373376/oAg6l3Gh_400x400.jpg",
+    name: "DHEERAJ GHOSH",
+    position: "Management Team",
+    twitter: "https://twitter.com/dheeraj_7_",
+    linkdin: "https://www.linkedin.com/in/dheeraj-ghosh-00a8831b3/",
+    github: "https://github.com/dj107",
+  },
 ];
 
 export default teamData;
