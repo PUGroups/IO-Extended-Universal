@@ -22,7 +22,7 @@
    <div v-else class="row d-flex justify-content-around"> 
     <div class="card col-lg-4 col-md-6 px-2   pb-4 mx-1 mt-5" v-for="data in individualSpeaker" :key="data.eventId">
         <div class="row"> <img class="img-fluid speaker-img mt-2 m-auto"  :src="data.profilePicture">
-            <h5 class=" ml-2 mt-1 speaker-name text-center">{{data.speakersName}}</h5>
+            <h2 class=" ml-2 mt-2 speaker-name text-center">{{data.speakersName}}</h2>
             <div  class="text-center"><span class="text-success text-center">Starts at {{data.slotStart}}</span></div>
         </div>
         <p class="mt-3 mb-2"> on 31/07/2021 </p>
@@ -92,8 +92,8 @@
 }
 
 img {
-    width: 120px;
-    height: 100px;
+    width: 250px;
+    height: 220px;
     border-radius:50%
 }
 
