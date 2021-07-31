@@ -5,6 +5,18 @@ export default createStore({
   state: {
     speakersWall: [],
     eventTimeline: [],
+    newTImings:[
+              "01:15pm - 01:45pm ",
+              "01:15pm - 01:45pm ",
+              "01:15pm - 01:45pm ",
+              "01:15pm - 01:45pm ",
+              " 02:00pm - 02:30pm",
+              " 02:30pm - 03:15pm",
+              " 03:30pm - 04:15pm",
+              " 04:15pm - 05:00pm",
+              " 05:15pm - 06:00pm",
+              " 06:00pm -6:45pm",
+            ]
   },
   mutations: {
     getSpeakersListMutation(state, payload) {
@@ -48,9 +60,11 @@ export default createStore({
           // console.log("this is res of time >>>");
           let slots = response.data[0].timeSlots;
           let eventTimeline = [];
+         
           for (let slot of slots) {
+            var i = 0;
             let speakersSlot = {
-              slotStart: slot.slotStart,
+              // slotStart: NewslotTimings[i],
               eventId: slot.rooms[0].session.id,
               liveUrl: slot.rooms[0].session.liveUrl,
               recordingUrl: slot.rooms[0].session.recordingUrl,
@@ -61,18 +75,43 @@ export default createStore({
               speakersName: slot.rooms[0].session.speakers[0].name,
             };
 
+            i++;
             let speakersWall = context.getters.getSpeakersWall;
             // console.log("speakersWasll>>" ,speakersWall);
             for (let speaker of speakersWall) {
-              if(slot.rooms[0].session.speakers[0].id== speaker.id)
-              {
+              if (slot.rooms[0].session.speakers[0].id == speaker.id) {
                 speakersSlot.profilePicture = speaker.profilePicture;
-               
               }
             }
+
+            // let NewslotTimings = [
+            //   "01:15pm - 01:45pm ",
+            //   "01:15pm - 01:45pm ",
+            //   "01:15pm - 01:45pm ",
+            //   "01:15pm - 01:45pm ",
+            //   " 02:00pm - 02:30pm",
+            //   " 02:30pm - 03:15pm",
+            //   " 03:30pm - 04:15pm",
+            //   " 04:15pm - 05:00pm",
+            //   " 05:15pm - 06:00pm",
+            //   " 06:00pm -6:45pm",
+            // ];
+            // for (let speaker of speakersWall) {
+            //   let i;
+            //   console.log("this is time", NewslotTimings[i], speaker);
+            //   speakersSlot.slotStart = NewslotTimings[i];
+            //   i++;
+            // }
+
+            // dateIST.setHours(dateIST.getHours() + 5);
+            // dateIST.setMinutes(dateIST.getMinutes() + 30);
+
+            // speakersSlot.slotStart.setHours( speakersSlot.slotStart.getHours() + 5);
+            // speakersSlot.slotStart.setMinutes( speakersSlot.slotStart.getMinutes() + 30);
             eventTimeline.push(speakersSlot);
             // console.log(eventTimeline);
           }
+          
           context.commit("getTimeSlotsWithDetailsMutation", eventTimeline);
 
           // for (let i of response.data.) {
@@ -89,7 +128,14 @@ export default createStore({
       return state.speakersWall;
     },
     getEventTimeline(state) {
-      return state.eventTimeline;
+      let i = 0;
+      for (let event of state.eventTimeline) {
+        
+        event.slotStart= state.newTImings[i++];
+      }
+     
+    
+        return state.eventTimeline;
     },
   },
 });
