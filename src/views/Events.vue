@@ -22,9 +22,10 @@
     <div class="card col-lg-4 col-md-6 px-2   pb-4 mx-1 mt-5" v-for="data in getEventTImeLine" :key="data.eventId">
         <div class="row"> <img class="img-fluid speaker-img mt-2 m-auto"  :src="data.profilePicture">
             <h2 class=" ml-2 mt-1 speaker-name text-center">{{data.speakersName}}</h2>
-            <div  class="text-center timings"><span class="text-success text-center">Starts at {{data.slotStart}}</span></div>
+            <!-- <div  class="text-center timings"><span class="text-success text-center">Starts at {{data.slotStart}}</span></div> -->
+            <div  class="text-center timings"><span class="text-success text-center">Event is Live</span></div>
         </div>
-        <p class="mt-3 mb-2"> on 31/07/2021 </p>
+        <p class="mt-3 mb-2"> Today </p>
         <h5 class="title">{{data.title}}</h5>
         <small>{{data.description}}</small>
         
@@ -35,8 +36,8 @@
             <img src="https://imgur.com/3Jkqz66.png">
              <img src="https://imgur.com/P5kPDPG.png">
               </div> -->
-               <button class="btn btn-dark mb-2 mt-3 reminder">
-                <span class=""><a :href="url">{{ !url ? 'Watch Live' : 'Set Reminder' }}</a></span>
+               <button class="btn btn-success mb-2 mt-3 reminder">
+                <span class=""><a :href="url">Click to Watch</a></span>
                 
                 </button>
                  <!-- <button class="btn info"><span>Watch </span></button> -->
@@ -139,7 +140,7 @@ p {
 }
 
 .btn.info span {
-    color: #26252B !important
+    color: #fde405 !important
 }
 
 .btn.info:hover {
