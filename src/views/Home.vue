@@ -17,6 +17,10 @@
           style="height: 370px"
         >
           <!-- <h1>I/O</h1> -->
+          <div class="row d-flex ">
+ <button type="button" @click="goToEvent" class="btn live-btn btn-primary mb-4">📺Watch Live Event📺</button>
+          </div>
+       
           <div class="row">
             <div id="logo" class="col-6 mx-4 my-2"></div>
             <div id="logo-slash"></div>
@@ -60,6 +64,7 @@
     <CommunityCollab />
 
     <PartnerCommunity />
+
   </div>
 </template>
 
@@ -70,6 +75,7 @@ import PartnerCommunity from "../components/HomeViews/PartnerCommunity.vue";
 import Speakers from "../components/HomeViews/Speakers.vue";
 import CelebrationOfTech from "../components/HomeViews/CelebrationOfTech.vue";
 import AboutIO from "../components/HomeViews/AboutIO.vue";
+
 export default {
   components: {
     Events,
@@ -78,6 +84,12 @@ export default {
     Speakers,
     CelebrationOfTech,
     AboutIO,
+    
+  },
+  methods: {
+    goToEvent(){
+      window.location.href= "https://www.youtube.com/watch?v=_oGN2TcOJ50"
+    }
   },
 };
 </script>
@@ -159,4 +171,28 @@ export default {
   font-family: "Poppins", sans-serif;
 }
 /* _________MAIN_HEADER_END___________ */
+
+.live-btn{
+ animation: livepop 1s infinite alternate ease-in;
+
+ 
+}
+.live-btn button {
+ color: red;
+font-weight: bolder;
+
+ 
+}
+
+@keyframes livepop {
+  to{
+    transform: scale(.8) rotate(5deg);
+    /* transform:  rotate(10deg); */
+  }
+  from{
+    transform: scale(1.2) rotate(-5deg);
+    /* transform:  rotate(-10deg); */
+  }
+  
+}
 </style>
