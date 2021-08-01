@@ -18,7 +18,7 @@
         >
           <!-- <h1>I/O</h1> -->
           <div class="row d-flex ">
- <button type="button" @click="goToEvent" class="btn live-btn btn-primary mb-4">📺Watch Live Event📺</button>
+ <button type="button" @click="goToEvent" class="btn live-btn btn-primary mb-4">📺Watch Event Recording 📺</button>
           </div>
        
           <div class="row">
@@ -186,11 +186,11 @@ font-weight: bolder;
 
 @keyframes livepop {
   to{
-    transform: scale(.8) rotate(5deg);
+    transform: scale(.8);
     /* transform:  rotate(10deg); */
   }
   from{
-    transform: scale(1.2) rotate(-5deg);
+    transform: scale(1.2);
     /* transform:  rotate(-10deg); */
   }
   
