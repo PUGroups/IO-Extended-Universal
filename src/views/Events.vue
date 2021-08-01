@@ -205,10 +205,10 @@ span a{
 }
 @keyframes popup {
   to{
-    transform: scale(.8);
+    transform: scale(.9);
   }
   from{
-    transform: scale(1.1);
+    transform: scale(1);
   }
 }
 @keyframes shake {
