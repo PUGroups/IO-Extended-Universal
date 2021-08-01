@@ -10,7 +10,7 @@
       </div>
     </div>
   </div>
-  <button  class="btn btn-warning event-btn"> <router-link to="/event"> See full event timeline</router-link> </button>
+  <button  class="btn btn-warning event-btn"> <router-link to="/event"> See List of all Speakers </router-link> </button>
  <div class="container">
   
    <div v-if="loading" class="laoding text-center">
@@ -26,7 +26,7 @@
             <!-- <div  class="text-center"><span class="text-success text-center">Event is Live</span></div> -->
                 <div  class="text-center timings"><span class="text-success text-center"> Event Ended </span></div>
         </div>
-        <p class="mt-3 mb-2"> Event Date : 31st July 2021 </p>
+        <p class="mt-3 mb-2"> Event Hosted on : 31st July 2021 </p>
         <h5 class="title">{{data.title}}</h5>
         <small>{{data.description}}</small>
         
