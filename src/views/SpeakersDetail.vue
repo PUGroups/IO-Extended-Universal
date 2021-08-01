@@ -26,7 +26,7 @@
             <!-- <div  class="text-center"><span class="text-success text-center">Event is Live</span></div> -->
                 <div  class="text-center timings"><span class="text-success text-center"> Event Ended </span></div>
         </div>
-        <p class="mt-3 mb-2"> Today </p>
+        <p class="mt-3 mb-2"> Event Date : 31st July 2021 </p>
         <h5 class="title">{{data.title}}</h5>
         <small>{{data.description}}</small>
         
