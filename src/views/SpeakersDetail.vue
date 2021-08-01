@@ -24,7 +24,7 @@
         <div class="row"> <img class="img-fluid speaker-img mt-2 m-auto"  :src="data.profilePicture">
             <h2 class=" ml-2 mt-2 speaker-name text-center">{{data.speakersName}}</h2>
             <!-- <div  class="text-center"><span class="text-success text-center">Event is Live</span></div> -->
-                <div  class="text-center timings"><span class="text-success text-center"> Watch between {{data.slotStart}}</span></div>
+                <div  class="text-center timings"><span class="text-success text-center"> Event Ended </span></div>
         </div>
         <p class="mt-3 mb-2"> Today </p>
         <h5 class="title">{{data.title}}</h5>
@@ -38,7 +38,7 @@
              <img src="https://imgur.com/P5kPDPG.png">
               </div> -->
                <button class="btn btn-success mb-2 mt-3">
-                <span><a :href="url">Watch Event Live</a></span>
+                <span><a :href="url">Watch Recording </a></span>
                 
                 </button>
                  <!-- <button class="btn info"><span>Watch </span></button> -->
